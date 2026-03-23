@@ -1,3 +1,4 @@
+
 # Built-in Functions -Binary Conversion Using Built-in Functions in Python
 
 ## 🎯 Aim
@@ -9,9 +10,13 @@ To write a Python program to convert the number **16** into its **binary represe
 3. Print the result.
 
 ## 🧾 Program
+```
+a=16 
 
-Add Code Here
-
+print(bin(a)
+```
 ## Output
+<img width="562" height="265" alt="image" src="https://github.com/user-attachments/assets/d42d2a9e-78ec-45e8-bd51-4f797265cd12" />
 
 ## Result
+Thus, the program has been successfully executed.
